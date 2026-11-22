@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="965" height="245">
+<g transform="translate(15,15)">
+  <circle cx="40.0" cy="40.0" r="35.0" fill="#ff0000" stroke="#880000" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="44.44444444444444" text-anchor="middle" fill="#aa0000" font-family="SimSun, Arial" dominant-baseline="middle">將</text>
+</g>
+<text x="55.0" y="109.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">General</text>
+<g transform="translate(110,15)">
+  <circle cx="40.0" cy="40.0" r="35.0" fill="#000000" stroke="#222222" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="44.44444444444444" text-anchor="middle" fill="#555555" font-family="SimSun, Arial" dominant-baseline="middle">將</text>
+</g>
+<text x="150.0" y="109.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">General</text>
+<g transform="translate(205,15)">
+  <circle cx="40.0" cy="40.0" r="35.0" fill="#ff0000" stroke="#880000" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="44.44444444444444" text-anchor="middle" fill="#aa0000" font-family="SimSun, Arial" dominant-baseline="middle">士</text>
+</g>
+<text x="245.0" y="109.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Advisor</text>
+<g transform="translate(300,15)">
+  <circle cx="40.0" cy="40.0" r="35.0" fill="#000000" stroke="#222222" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="44.44444444444444" text-anchor="middle" fill="#555555" font-family="SimSun, Arial" dominant-baseline="middle">士</text>
+</g>
+<text x="340.0" y="109.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Advisor</text>
+<g transform="translate(395,15)">
+  <circle cx="40.0" cy="40.0" r="35.0" fill="#ff0000" stroke="#880000" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="44.44444444444444" text-anchor="middle" fill="#aa0000" font-family="SimSun, Arial" dominant-baseline="middle">象</text>
+</g>
+<text x="435.0" y="109.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Elephant</text>
+<g transform="translate(490,15)">
+  <circle cx="40.0" cy="40.0" r="35.0" fill="#000000" stroke="#222222" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="44.44444444444444" text-anchor="middle" fill="#555555" font-family="SimSun, Arial" dominant-baseline="middle">象</text>
+</g>
+<text x="530.0" y="109.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Elephant</text>
+<g transform="translate(585,15)">
+  <circle cx="40.0" cy="40.0" r="35.0" fill="#ff0000" stroke="#880000" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="44.44444444444444" text-anchor="middle" fill="#aa0000" font-family="SimSun, Arial" dominant-baseline="middle">馬</text>
+</g>
+<text x="625.0" y="109.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Horse</text>
+<g transform="translate(680,15)">
+  <circle cx="40.0" cy="40.0" r="35.0" fill="#000000" stroke="#222222" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="44.44444444444444" text-anchor="middle" fill="#555555" font-family="SimSun, Arial" dominant-baseline="middle">馬</text>
+</g>
+<text x="720.0" y="109.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Horse</text>
+<g transform="translate(775,15)">
+  <circle cx="40.0" cy="40.0" r="35.0" fill="#ff0000" stroke="#880000" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="44.44444444444444" text-anchor="middle" fill="#aa0000" font-family="SimSun, Arial" dominant-baseline="middle">車</text>
+</g>
+<text x="815.0" y="109.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Chariot</text>
+<g transform="translate(870,15)">
+  <circle cx="40.0" cy="40.0" r="35.0" fill="#000000" stroke="#222222" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="44.44444444444444" text-anchor="middle" fill="#555555" font-family="SimSun, Arial" dominant-baseline="middle">車</text>
+</g>
+<text x="910.0" y="109.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Chariot</text>
+<g transform="translate(15,130)">
+  <circle cx="40.0" cy="40.0" r="35.0" fill="#ff0000" stroke="#880000" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="44.44444444444444" text-anchor="middle" fill="#aa0000" font-family="SimSun, Arial" dominant-baseline="middle">砲</text>
+</g>
+<text x="55.0" y="224.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Cannon</text>
+<g transform="translate(110,130)">
+  <circle cx="40.0" cy="40.0" r="35.0" fill="#000000" stroke="#222222" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="44.44444444444444" text-anchor="middle" fill="#555555" font-family="SimSun, Arial" dominant-baseline="middle">砲</text>
+</g>
+<text x="150.0" y="224.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Cannon</text>
+<g transform="translate(205,130)">
+  <circle cx="40.0" cy="40.0" r="35.0" fill="#ff0000" stroke="#880000" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="44.44444444444444" text-anchor="middle" fill="#aa0000" font-family="SimSun, Arial" dominant-baseline="middle">卒</text>
+</g>
+<text x="245.0" y="224.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Soldier</text>
+<g transform="translate(300,130)">
+  <circle cx="40.0" cy="40.0" r="35.0" fill="#000000" stroke="#222222" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="44.44444444444444" text-anchor="middle" fill="#555555" font-family="SimSun, Arial" dominant-baseline="middle">卒</text>
+</g>
+<text x="340.0" y="224.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Soldier</text>
+</svg>

@@ -1,0 +1,142 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="965" height="360">
+<g transform="translate(15,15)">
+  <polygon points="40.0,5 75,24.0 65,75 15,75 5,24.0" fill="#ffffff" stroke="#aaaaaa" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="32.0" text-anchor="middle" fill="#aaaaaa" font-family="MS Gothic, Arial" dominant-baseline="middle">王</text>
+</g>
+<text x="55.0" y="109.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">King</text>
+<g transform="translate(110,15)">
+  <polygon points="40.0,5 75,24.0 65,75 15,75 5,24.0" fill="#000000" stroke="#aaaaaa" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="32.0" text-anchor="middle" fill="#aaaaaa" font-family="MS Gothic, Arial" dominant-baseline="middle">王</text>
+</g>
+<text x="150.0" y="109.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">King</text>
+<g transform="translate(205,15)">
+  <polygon points="40.0,5 75,24.0 65,75 15,75 5,24.0" fill="#ffffff" stroke="#aaaaaa" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="32.0" text-anchor="middle" fill="#aaaaaa" font-family="MS Gothic, Arial" dominant-baseline="middle">飛</text>
+</g>
+<text x="245.0" y="109.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Rook</text>
+<g transform="translate(300,15)">
+  <polygon points="40.0,5 75,24.0 65,75 15,75 5,24.0" fill="#000000" stroke="#aaaaaa" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="32.0" text-anchor="middle" fill="#aaaaaa" font-family="MS Gothic, Arial" dominant-baseline="middle">飛</text>
+</g>
+<text x="340.0" y="109.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Rook</text>
+<g transform="translate(395,15)">
+  <polygon points="40.0,5 75,24.0 65,75 15,75 5,24.0" fill="#ffffff" stroke="#aaaaaa" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="32.0" text-anchor="middle" fill="#aaaaaa" font-family="MS Gothic, Arial" dominant-baseline="middle">角</text>
+</g>
+<text x="435.0" y="109.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Bishop</text>
+<g transform="translate(490,15)">
+  <polygon points="40.0,5 75,24.0 65,75 15,75 5,24.0" fill="#000000" stroke="#aaaaaa" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="32.0" text-anchor="middle" fill="#aaaaaa" font-family="MS Gothic, Arial" dominant-baseline="middle">角</text>
+</g>
+<text x="530.0" y="109.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Bishop</text>
+<g transform="translate(585,15)">
+  <polygon points="40.0,5 75,24.0 65,75 15,75 5,24.0" fill="#ffffff" stroke="#aaaaaa" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="32.0" text-anchor="middle" fill="#aaaaaa" font-family="MS Gothic, Arial" dominant-baseline="middle">金</text>
+</g>
+<text x="625.0" y="109.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">GoldGeneral</text>
+<g transform="translate(680,15)">
+  <polygon points="40.0,5 75,24.0 65,75 15,75 5,24.0" fill="#000000" stroke="#aaaaaa" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="32.0" text-anchor="middle" fill="#aaaaaa" font-family="MS Gothic, Arial" dominant-baseline="middle">金</text>
+</g>
+<text x="720.0" y="109.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">GoldGeneral</text>
+<g transform="translate(775,15)">
+  <polygon points="40.0,5 75,24.0 65,75 15,75 5,24.0" fill="#ffffff" stroke="#aaaaaa" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="32.0" text-anchor="middle" fill="#aaaaaa" font-family="MS Gothic, Arial" dominant-baseline="middle">銀</text>
+</g>
+<text x="815.0" y="109.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">SilverGeneral</text>
+<g transform="translate(870,15)">
+  <polygon points="40.0,5 75,24.0 65,75 15,75 5,24.0" fill="#000000" stroke="#aaaaaa" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="32.0" text-anchor="middle" fill="#aaaaaa" font-family="MS Gothic, Arial" dominant-baseline="middle">銀</text>
+</g>
+<text x="910.0" y="109.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">SilverGeneral</text>
+<g transform="translate(15,130)">
+  <polygon points="40.0,5 75,24.0 65,75 15,75 5,24.0" fill="#ffffff" stroke="#aaaaaa" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="32.0" text-anchor="middle" fill="#aaaaaa" font-family="MS Gothic, Arial" dominant-baseline="middle">桂</text>
+</g>
+<text x="55.0" y="224.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Knight</text>
+<g transform="translate(110,130)">
+  <polygon points="40.0,5 75,24.0 65,75 15,75 5,24.0" fill="#000000" stroke="#aaaaaa" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="32.0" text-anchor="middle" fill="#aaaaaa" font-family="MS Gothic, Arial" dominant-baseline="middle">桂</text>
+</g>
+<text x="150.0" y="224.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Knight</text>
+<g transform="translate(205,130)">
+  <polygon points="40.0,5 75,24.0 65,75 15,75 5,24.0" fill="#ffffff" stroke="#aaaaaa" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="32.0" text-anchor="middle" fill="#aaaaaa" font-family="MS Gothic, Arial" dominant-baseline="middle">香</text>
+</g>
+<text x="245.0" y="224.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Lance</text>
+<g transform="translate(300,130)">
+  <polygon points="40.0,5 75,24.0 65,75 15,75 5,24.0" fill="#000000" stroke="#aaaaaa" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="32.0" text-anchor="middle" fill="#aaaaaa" font-family="MS Gothic, Arial" dominant-baseline="middle">香</text>
+</g>
+<text x="340.0" y="224.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Lance</text>
+<g transform="translate(395,130)">
+  <polygon points="40.0,5 75,24.0 65,75 15,75 5,24.0" fill="#ffffff" stroke="#aaaaaa" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="32.0" text-anchor="middle" fill="#aaaaaa" font-family="MS Gothic, Arial" dominant-baseline="middle">歩</text>
+</g>
+<text x="435.0" y="224.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Pawn</text>
+<g transform="translate(490,130)">
+  <polygon points="40.0,5 75,24.0 65,75 15,75 5,24.0" fill="#000000" stroke="#aaaaaa" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="32.0" text-anchor="middle" fill="#aaaaaa" font-family="MS Gothic, Arial" dominant-baseline="middle">歩</text>
+</g>
+<text x="530.0" y="224.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Pawn</text>
+<g transform="translate(585,130)">
+  <polygon points="40.0,5 75,24.0 65,75 15,75 5,24.0" fill="#fff0b3" stroke="#aaaaaa" stroke-width="4"/>
+  <text x="50%" y="20.0" font-size="32.0" text-anchor="middle" fill="#aaaaaa" font-family="MS Gothic, Arial"><tspan x="50%" dy="32.0">龍</tspan></text>
+</g>
+<text x="625.0" y="224.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">PromotedRook</text>
+<g transform="translate(680,130)">
+  <polygon points="40.0,5 75,24.0 65,75 15,75 5,24.0" fill="#fff0b3" stroke="#aaaaaa" stroke-width="4"/>
+  <text x="50%" y="20.0" font-size="32.0" text-anchor="middle" fill="#aaaaaa" font-family="MS Gothic, Arial"><tspan x="50%" dy="32.0">龍</tspan></text>
+</g>
+<text x="720.0" y="224.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">PromotedRook</text>
+<g transform="translate(775,130)">
+  <polygon points="40.0,5 75,24.0 65,75 15,75 5,24.0" fill="#fff0b3" stroke="#aaaaaa" stroke-width="4"/>
+  <text x="50%" y="20.0" font-size="32.0" text-anchor="middle" fill="#aaaaaa" font-family="MS Gothic, Arial"><tspan x="50%" dy="32.0">馬</tspan></text>
+</g>
+<text x="815.0" y="224.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">PromotedBishop</text>
+<g transform="translate(870,130)">
+  <polygon points="40.0,5 75,24.0 65,75 15,75 5,24.0" fill="#fff0b3" stroke="#aaaaaa" stroke-width="4"/>
+  <text x="50%" y="20.0" font-size="32.0" text-anchor="middle" fill="#aaaaaa" font-family="MS Gothic, Arial"><tspan x="50%" dy="32.0">馬</tspan></text>
+</g>
+<text x="910.0" y="224.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">PromotedBishop</text>
+<g transform="translate(15,245)">
+  <polygon points="40.0,5 75,24.0 65,75 15,75 5,24.0" fill="#fff0b3" stroke="#aaaaaa" stroke-width="4"/>
+  <text x="50%" y="20.0" font-size="32.0" text-anchor="middle" fill="#aaaaaa" font-family="MS Gothic, Arial"><tspan x="50%" dy="32.0">成</tspan><tspan x="50%" dy="32.0">銀</tspan></text>
+</g>
+<text x="55.0" y="339.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">PromotedSilver</text>
+<g transform="translate(110,245)">
+  <polygon points="40.0,5 75,24.0 65,75 15,75 5,24.0" fill="#fff0b3" stroke="#aaaaaa" stroke-width="4"/>
+  <text x="50%" y="20.0" font-size="32.0" text-anchor="middle" fill="#aaaaaa" font-family="MS Gothic, Arial"><tspan x="50%" dy="32.0">成</tspan><tspan x="50%" dy="32.0">銀</tspan></text>
+</g>
+<text x="150.0" y="339.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">PromotedSilver</text>
+<g transform="translate(205,245)">
+  <polygon points="40.0,5 75,24.0 65,75 15,75 5,24.0" fill="#fff0b3" stroke="#aaaaaa" stroke-width="4"/>
+  <text x="50%" y="20.0" font-size="32.0" text-anchor="middle" fill="#aaaaaa" font-family="MS Gothic, Arial"><tspan x="50%" dy="32.0">成</tspan><tspan x="50%" dy="32.0">桂</tspan></text>
+</g>
+<text x="245.0" y="339.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">PromotedKnight</text>
+<g transform="translate(300,245)">
+  <polygon points="40.0,5 75,24.0 65,75 15,75 5,24.0" fill="#fff0b3" stroke="#aaaaaa" stroke-width="4"/>
+  <text x="50%" y="20.0" font-size="32.0" text-anchor="middle" fill="#aaaaaa" font-family="MS Gothic, Arial"><tspan x="50%" dy="32.0">成</tspan><tspan x="50%" dy="32.0">桂</tspan></text>
+</g>
+<text x="340.0" y="339.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">PromotedKnight</text>
+<g transform="translate(395,245)">
+  <polygon points="40.0,5 75,24.0 65,75 15,75 5,24.0" fill="#fff0b3" stroke="#aaaaaa" stroke-width="4"/>
+  <text x="50%" y="20.0" font-size="32.0" text-anchor="middle" fill="#aaaaaa" font-family="MS Gothic, Arial"><tspan x="50%" dy="32.0">成</tspan><tspan x="50%" dy="32.0">香</tspan></text>
+</g>
+<text x="435.0" y="339.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">PromotedLance</text>
+<g transform="translate(490,245)">
+  <polygon points="40.0,5 75,24.0 65,75 15,75 5,24.0" fill="#fff0b3" stroke="#aaaaaa" stroke-width="4"/>
+  <text x="50%" y="20.0" font-size="32.0" text-anchor="middle" fill="#aaaaaa" font-family="MS Gothic, Arial"><tspan x="50%" dy="32.0">成</tspan><tspan x="50%" dy="32.0">香</tspan></text>
+</g>
+<text x="530.0" y="339.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">PromotedLance</text>
+<g transform="translate(585,245)">
+  <polygon points="40.0,5 75,24.0 65,75 15,75 5,24.0" fill="#fff0b3" stroke="#aaaaaa" stroke-width="4"/>
+  <text x="50%" y="20.0" font-size="32.0" text-anchor="middle" fill="#aaaaaa" font-family="MS Gothic, Arial"><tspan x="50%" dy="32.0">と</tspan></text>
+</g>
+<text x="625.0" y="339.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">PromotedPawn</text>
+<g transform="translate(680,245)">
+  <polygon points="40.0,5 75,24.0 65,75 15,75 5,24.0" fill="#fff0b3" stroke="#aaaaaa" stroke-width="4"/>
+  <text x="50%" y="20.0" font-size="32.0" text-anchor="middle" fill="#aaaaaa" font-family="MS Gothic, Arial"><tspan x="50%" dy="32.0">と</tspan></text>
+</g>
+<text x="720.0" y="339.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">PromotedPawn</text>
+</svg>

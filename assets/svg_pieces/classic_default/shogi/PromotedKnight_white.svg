@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80">
+  <polygon points="40.0,5 75,24.0 65,75 15,75 5,24.0" fill="#fff0b3" stroke="#aaaaaa" stroke-width="4"/>
+  <text x="50%" y="20.0" font-size="32.0" text-anchor="middle" fill="#aaaaaa" font-family="MS Gothic, Arial"><tspan x="50%" dy="32.0">成</tspan><tspan x="50%" dy="32.0">桂</tspan></text>
+</svg>

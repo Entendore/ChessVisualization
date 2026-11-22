@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="965" height="245">
+<g transform="translate(15,15)">
+  <rect x="0" y="0" width="80" height="80" rx="12.0" ry="12.0" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="48.0" text-anchor="middle" fill="#808080" font-family="Arial" dominant-baseline="middle">♔</text>
+</g>
+<text x="55.0" y="109.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">King</text>
+<g transform="translate(110,15)">
+  <rect x="0" y="0" width="80" height="80" rx="12.0" ry="12.0" fill="#000000" stroke="#ffffff" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="48.0" text-anchor="middle" fill="#808080" font-family="Arial" dominant-baseline="middle">♔</text>
+</g>
+<text x="150.0" y="109.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">King</text>
+<g transform="translate(205,15)">
+  <rect x="0" y="0" width="80" height="80" rx="12.0" ry="12.0" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="48.0" text-anchor="middle" fill="#808080" font-family="Arial" dominant-baseline="middle">♕</text>
+</g>
+<text x="245.0" y="109.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Queen</text>
+<g transform="translate(300,15)">
+  <rect x="0" y="0" width="80" height="80" rx="12.0" ry="12.0" fill="#000000" stroke="#ffffff" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="48.0" text-anchor="middle" fill="#808080" font-family="Arial" dominant-baseline="middle">♕</text>
+</g>
+<text x="340.0" y="109.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Queen</text>
+<g transform="translate(395,15)">
+  <rect x="0" y="0" width="80" height="80" rx="12.0" ry="12.0" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="48.0" text-anchor="middle" fill="#808080" font-family="Arial" dominant-baseline="middle">♖</text>
+</g>
+<text x="435.0" y="109.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Rook</text>
+<g transform="translate(490,15)">
+  <rect x="0" y="0" width="80" height="80" rx="12.0" ry="12.0" fill="#000000" stroke="#ffffff" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="48.0" text-anchor="middle" fill="#808080" font-family="Arial" dominant-baseline="middle">♖</text>
+</g>
+<text x="530.0" y="109.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Rook</text>
+<g transform="translate(585,15)">
+  <rect x="0" y="0" width="80" height="80" rx="12.0" ry="12.0" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="48.0" text-anchor="middle" fill="#808080" font-family="Arial" dominant-baseline="middle">♗</text>
+</g>
+<text x="625.0" y="109.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Bishop</text>
+<g transform="translate(680,15)">
+  <rect x="0" y="0" width="80" height="80" rx="12.0" ry="12.0" fill="#000000" stroke="#ffffff" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="48.0" text-anchor="middle" fill="#808080" font-family="Arial" dominant-baseline="middle">♗</text>
+</g>
+<text x="720.0" y="109.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Bishop</text>
+<g transform="translate(775,15)">
+  <rect x="0" y="0" width="80" height="80" rx="12.0" ry="12.0" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="48.0" text-anchor="middle" fill="#808080" font-family="Arial" dominant-baseline="middle">♘</text>
+</g>
+<text x="815.0" y="109.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Knight</text>
+<g transform="translate(870,15)">
+  <rect x="0" y="0" width="80" height="80" rx="12.0" ry="12.0" fill="#000000" stroke="#ffffff" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="48.0" text-anchor="middle" fill="#808080" font-family="Arial" dominant-baseline="middle">♘</text>
+</g>
+<text x="910.0" y="109.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Knight</text>
+<g transform="translate(15,130)">
+  <rect x="0" y="0" width="80" height="80" rx="12.0" ry="12.0" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="48.0" text-anchor="middle" fill="#808080" font-family="Arial" dominant-baseline="middle">♙</text>
+</g>
+<text x="55.0" y="224.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Pawn</text>
+<g transform="translate(110,130)">
+  <rect x="0" y="0" width="80" height="80" rx="12.0" ry="12.0" fill="#000000" stroke="#ffffff" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="48.0" text-anchor="middle" fill="#808080" font-family="Arial" dominant-baseline="middle">♙</text>
+</g>
+<text x="150.0" y="224.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Pawn</text>
+</svg>

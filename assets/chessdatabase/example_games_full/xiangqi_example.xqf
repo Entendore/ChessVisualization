@@ -1,0 +1,8 @@
+[Event "Example Xiangqi Game"]
+[Site "Local"]
+[Date "2025.08.20"]
+[Red "Alice"]
+[Black "Bob"]
+[Result "1-0"]
+
+1. C2=5 C8=5 2. H2+3 H8+3 3. E2=5 E9=5 4. S1=2 S10=2 1-0

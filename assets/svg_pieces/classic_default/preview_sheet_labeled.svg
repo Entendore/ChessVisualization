@@ -1,0 +1,272 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="965" height="705">
+<g transform="translate(15,15)">
+  <rect x="0" y="0" width="80" height="80" rx="12.0" ry="12.0" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="48.0" text-anchor="middle" fill="#808080" font-family="Arial" dominant-baseline="middle">♔</text>
+</g>
+<text x="55.0" y="109.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">King</text>
+<g transform="translate(110,15)">
+  <rect x="0" y="0" width="80" height="80" rx="12.0" ry="12.0" fill="#000000" stroke="#ffffff" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="48.0" text-anchor="middle" fill="#808080" font-family="Arial" dominant-baseline="middle">♔</text>
+</g>
+<text x="150.0" y="109.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">King</text>
+<g transform="translate(205,15)">
+  <rect x="0" y="0" width="80" height="80" rx="12.0" ry="12.0" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="48.0" text-anchor="middle" fill="#808080" font-family="Arial" dominant-baseline="middle">♕</text>
+</g>
+<text x="245.0" y="109.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Queen</text>
+<g transform="translate(300,15)">
+  <rect x="0" y="0" width="80" height="80" rx="12.0" ry="12.0" fill="#000000" stroke="#ffffff" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="48.0" text-anchor="middle" fill="#808080" font-family="Arial" dominant-baseline="middle">♕</text>
+</g>
+<text x="340.0" y="109.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Queen</text>
+<g transform="translate(395,15)">
+  <rect x="0" y="0" width="80" height="80" rx="12.0" ry="12.0" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="48.0" text-anchor="middle" fill="#808080" font-family="Arial" dominant-baseline="middle">♖</text>
+</g>
+<text x="435.0" y="109.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Rook</text>
+<g transform="translate(490,15)">
+  <rect x="0" y="0" width="80" height="80" rx="12.0" ry="12.0" fill="#000000" stroke="#ffffff" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="48.0" text-anchor="middle" fill="#808080" font-family="Arial" dominant-baseline="middle">♖</text>
+</g>
+<text x="530.0" y="109.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Rook</text>
+<g transform="translate(585,15)">
+  <rect x="0" y="0" width="80" height="80" rx="12.0" ry="12.0" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="48.0" text-anchor="middle" fill="#808080" font-family="Arial" dominant-baseline="middle">♗</text>
+</g>
+<text x="625.0" y="109.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Bishop</text>
+<g transform="translate(680,15)">
+  <rect x="0" y="0" width="80" height="80" rx="12.0" ry="12.0" fill="#000000" stroke="#ffffff" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="48.0" text-anchor="middle" fill="#808080" font-family="Arial" dominant-baseline="middle">♗</text>
+</g>
+<text x="720.0" y="109.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Bishop</text>
+<g transform="translate(775,15)">
+  <rect x="0" y="0" width="80" height="80" rx="12.0" ry="12.0" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="48.0" text-anchor="middle" fill="#808080" font-family="Arial" dominant-baseline="middle">♘</text>
+</g>
+<text x="815.0" y="109.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Knight</text>
+<g transform="translate(870,15)">
+  <rect x="0" y="0" width="80" height="80" rx="12.0" ry="12.0" fill="#000000" stroke="#ffffff" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="48.0" text-anchor="middle" fill="#808080" font-family="Arial" dominant-baseline="middle">♘</text>
+</g>
+<text x="910.0" y="109.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Knight</text>
+<g transform="translate(15,130)">
+  <rect x="0" y="0" width="80" height="80" rx="12.0" ry="12.0" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="48.0" text-anchor="middle" fill="#808080" font-family="Arial" dominant-baseline="middle">♙</text>
+</g>
+<text x="55.0" y="224.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Pawn</text>
+<g transform="translate(110,130)">
+  <rect x="0" y="0" width="80" height="80" rx="12.0" ry="12.0" fill="#000000" stroke="#ffffff" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="48.0" text-anchor="middle" fill="#808080" font-family="Arial" dominant-baseline="middle">♙</text>
+</g>
+<text x="150.0" y="224.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Pawn</text>
+<g transform="translate(205,130)">
+  <polygon points="40.0,5 75,24.0 65,75 15,75 5,24.0" fill="#ffffff" stroke="#aaaaaa" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="32.0" text-anchor="middle" fill="#aaaaaa" font-family="MS Gothic, Arial" dominant-baseline="middle">王</text>
+</g>
+<text x="245.0" y="224.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">King</text>
+<g transform="translate(300,130)">
+  <polygon points="40.0,5 75,24.0 65,75 15,75 5,24.0" fill="#000000" stroke="#aaaaaa" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="32.0" text-anchor="middle" fill="#aaaaaa" font-family="MS Gothic, Arial" dominant-baseline="middle">王</text>
+</g>
+<text x="340.0" y="224.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">King</text>
+<g transform="translate(395,130)">
+  <polygon points="40.0,5 75,24.0 65,75 15,75 5,24.0" fill="#ffffff" stroke="#aaaaaa" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="32.0" text-anchor="middle" fill="#aaaaaa" font-family="MS Gothic, Arial" dominant-baseline="middle">飛</text>
+</g>
+<text x="435.0" y="224.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Rook</text>
+<g transform="translate(490,130)">
+  <polygon points="40.0,5 75,24.0 65,75 15,75 5,24.0" fill="#000000" stroke="#aaaaaa" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="32.0" text-anchor="middle" fill="#aaaaaa" font-family="MS Gothic, Arial" dominant-baseline="middle">飛</text>
+</g>
+<text x="530.0" y="224.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Rook</text>
+<g transform="translate(585,130)">
+  <polygon points="40.0,5 75,24.0 65,75 15,75 5,24.0" fill="#ffffff" stroke="#aaaaaa" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="32.0" text-anchor="middle" fill="#aaaaaa" font-family="MS Gothic, Arial" dominant-baseline="middle">角</text>
+</g>
+<text x="625.0" y="224.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Bishop</text>
+<g transform="translate(680,130)">
+  <polygon points="40.0,5 75,24.0 65,75 15,75 5,24.0" fill="#000000" stroke="#aaaaaa" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="32.0" text-anchor="middle" fill="#aaaaaa" font-family="MS Gothic, Arial" dominant-baseline="middle">角</text>
+</g>
+<text x="720.0" y="224.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Bishop</text>
+<g transform="translate(775,130)">
+  <polygon points="40.0,5 75,24.0 65,75 15,75 5,24.0" fill="#ffffff" stroke="#aaaaaa" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="32.0" text-anchor="middle" fill="#aaaaaa" font-family="MS Gothic, Arial" dominant-baseline="middle">金</text>
+</g>
+<text x="815.0" y="224.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">GoldGeneral</text>
+<g transform="translate(870,130)">
+  <polygon points="40.0,5 75,24.0 65,75 15,75 5,24.0" fill="#000000" stroke="#aaaaaa" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="32.0" text-anchor="middle" fill="#aaaaaa" font-family="MS Gothic, Arial" dominant-baseline="middle">金</text>
+</g>
+<text x="910.0" y="224.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">GoldGeneral</text>
+<g transform="translate(15,245)">
+  <polygon points="40.0,5 75,24.0 65,75 15,75 5,24.0" fill="#ffffff" stroke="#aaaaaa" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="32.0" text-anchor="middle" fill="#aaaaaa" font-family="MS Gothic, Arial" dominant-baseline="middle">銀</text>
+</g>
+<text x="55.0" y="339.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">SilverGeneral</text>
+<g transform="translate(110,245)">
+  <polygon points="40.0,5 75,24.0 65,75 15,75 5,24.0" fill="#000000" stroke="#aaaaaa" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="32.0" text-anchor="middle" fill="#aaaaaa" font-family="MS Gothic, Arial" dominant-baseline="middle">銀</text>
+</g>
+<text x="150.0" y="339.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">SilverGeneral</text>
+<g transform="translate(205,245)">
+  <polygon points="40.0,5 75,24.0 65,75 15,75 5,24.0" fill="#ffffff" stroke="#aaaaaa" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="32.0" text-anchor="middle" fill="#aaaaaa" font-family="MS Gothic, Arial" dominant-baseline="middle">桂</text>
+</g>
+<text x="245.0" y="339.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Knight</text>
+<g transform="translate(300,245)">
+  <polygon points="40.0,5 75,24.0 65,75 15,75 5,24.0" fill="#000000" stroke="#aaaaaa" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="32.0" text-anchor="middle" fill="#aaaaaa" font-family="MS Gothic, Arial" dominant-baseline="middle">桂</text>
+</g>
+<text x="340.0" y="339.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Knight</text>
+<g transform="translate(395,245)">
+  <polygon points="40.0,5 75,24.0 65,75 15,75 5,24.0" fill="#ffffff" stroke="#aaaaaa" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="32.0" text-anchor="middle" fill="#aaaaaa" font-family="MS Gothic, Arial" dominant-baseline="middle">香</text>
+</g>
+<text x="435.0" y="339.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Lance</text>
+<g transform="translate(490,245)">
+  <polygon points="40.0,5 75,24.0 65,75 15,75 5,24.0" fill="#000000" stroke="#aaaaaa" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="32.0" text-anchor="middle" fill="#aaaaaa" font-family="MS Gothic, Arial" dominant-baseline="middle">香</text>
+</g>
+<text x="530.0" y="339.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Lance</text>
+<g transform="translate(585,245)">
+  <polygon points="40.0,5 75,24.0 65,75 15,75 5,24.0" fill="#ffffff" stroke="#aaaaaa" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="32.0" text-anchor="middle" fill="#aaaaaa" font-family="MS Gothic, Arial" dominant-baseline="middle">歩</text>
+</g>
+<text x="625.0" y="339.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Pawn</text>
+<g transform="translate(680,245)">
+  <polygon points="40.0,5 75,24.0 65,75 15,75 5,24.0" fill="#000000" stroke="#aaaaaa" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="32.0" text-anchor="middle" fill="#aaaaaa" font-family="MS Gothic, Arial" dominant-baseline="middle">歩</text>
+</g>
+<text x="720.0" y="339.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Pawn</text>
+<g transform="translate(775,245)">
+  <polygon points="40.0,5 75,24.0 65,75 15,75 5,24.0" fill="#fff0b3" stroke="#aaaaaa" stroke-width="4"/>
+  <text x="50%" y="20.0" font-size="32.0" text-anchor="middle" fill="#aaaaaa" font-family="MS Gothic, Arial"><tspan x="50%" dy="32.0">龍</tspan></text>
+</g>
+<text x="815.0" y="339.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">PromotedRook</text>
+<g transform="translate(870,245)">
+  <polygon points="40.0,5 75,24.0 65,75 15,75 5,24.0" fill="#fff0b3" stroke="#aaaaaa" stroke-width="4"/>
+  <text x="50%" y="20.0" font-size="32.0" text-anchor="middle" fill="#aaaaaa" font-family="MS Gothic, Arial"><tspan x="50%" dy="32.0">龍</tspan></text>
+</g>
+<text x="910.0" y="339.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">PromotedRook</text>
+<g transform="translate(15,360)">
+  <polygon points="40.0,5 75,24.0 65,75 15,75 5,24.0" fill="#fff0b3" stroke="#aaaaaa" stroke-width="4"/>
+  <text x="50%" y="20.0" font-size="32.0" text-anchor="middle" fill="#aaaaaa" font-family="MS Gothic, Arial"><tspan x="50%" dy="32.0">馬</tspan></text>
+</g>
+<text x="55.0" y="454.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">PromotedBishop</text>
+<g transform="translate(110,360)">
+  <polygon points="40.0,5 75,24.0 65,75 15,75 5,24.0" fill="#fff0b3" stroke="#aaaaaa" stroke-width="4"/>
+  <text x="50%" y="20.0" font-size="32.0" text-anchor="middle" fill="#aaaaaa" font-family="MS Gothic, Arial"><tspan x="50%" dy="32.0">馬</tspan></text>
+</g>
+<text x="150.0" y="454.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">PromotedBishop</text>
+<g transform="translate(205,360)">
+  <polygon points="40.0,5 75,24.0 65,75 15,75 5,24.0" fill="#fff0b3" stroke="#aaaaaa" stroke-width="4"/>
+  <text x="50%" y="20.0" font-size="32.0" text-anchor="middle" fill="#aaaaaa" font-family="MS Gothic, Arial"><tspan x="50%" dy="32.0">成</tspan><tspan x="50%" dy="32.0">銀</tspan></text>
+</g>
+<text x="245.0" y="454.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">PromotedSilver</text>
+<g transform="translate(300,360)">
+  <polygon points="40.0,5 75,24.0 65,75 15,75 5,24.0" fill="#fff0b3" stroke="#aaaaaa" stroke-width="4"/>
+  <text x="50%" y="20.0" font-size="32.0" text-anchor="middle" fill="#aaaaaa" font-family="MS Gothic, Arial"><tspan x="50%" dy="32.0">成</tspan><tspan x="50%" dy="32.0">銀</tspan></text>
+</g>
+<text x="340.0" y="454.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">PromotedSilver</text>
+<g transform="translate(395,360)">
+  <polygon points="40.0,5 75,24.0 65,75 15,75 5,24.0" fill="#fff0b3" stroke="#aaaaaa" stroke-width="4"/>
+  <text x="50%" y="20.0" font-size="32.0" text-anchor="middle" fill="#aaaaaa" font-family="MS Gothic, Arial"><tspan x="50%" dy="32.0">成</tspan><tspan x="50%" dy="32.0">桂</tspan></text>
+</g>
+<text x="435.0" y="454.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">PromotedKnight</text>
+<g transform="translate(490,360)">
+  <polygon points="40.0,5 75,24.0 65,75 15,75 5,24.0" fill="#fff0b3" stroke="#aaaaaa" stroke-width="4"/>
+  <text x="50%" y="20.0" font-size="32.0" text-anchor="middle" fill="#aaaaaa" font-family="MS Gothic, Arial"><tspan x="50%" dy="32.0">成</tspan><tspan x="50%" dy="32.0">桂</tspan></text>
+</g>
+<text x="530.0" y="454.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">PromotedKnight</text>
+<g transform="translate(585,360)">
+  <polygon points="40.0,5 75,24.0 65,75 15,75 5,24.0" fill="#fff0b3" stroke="#aaaaaa" stroke-width="4"/>
+  <text x="50%" y="20.0" font-size="32.0" text-anchor="middle" fill="#aaaaaa" font-family="MS Gothic, Arial"><tspan x="50%" dy="32.0">成</tspan><tspan x="50%" dy="32.0">香</tspan></text>
+</g>
+<text x="625.0" y="454.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">PromotedLance</text>
+<g transform="translate(680,360)">
+  <polygon points="40.0,5 75,24.0 65,75 15,75 5,24.0" fill="#fff0b3" stroke="#aaaaaa" stroke-width="4"/>
+  <text x="50%" y="20.0" font-size="32.0" text-anchor="middle" fill="#aaaaaa" font-family="MS Gothic, Arial"><tspan x="50%" dy="32.0">成</tspan><tspan x="50%" dy="32.0">香</tspan></text>
+</g>
+<text x="720.0" y="454.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">PromotedLance</text>
+<g transform="translate(775,360)">
+  <polygon points="40.0,5 75,24.0 65,75 15,75 5,24.0" fill="#fff0b3" stroke="#aaaaaa" stroke-width="4"/>
+  <text x="50%" y="20.0" font-size="32.0" text-anchor="middle" fill="#aaaaaa" font-family="MS Gothic, Arial"><tspan x="50%" dy="32.0">と</tspan></text>
+</g>
+<text x="815.0" y="454.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">PromotedPawn</text>
+<g transform="translate(870,360)">
+  <polygon points="40.0,5 75,24.0 65,75 15,75 5,24.0" fill="#fff0b3" stroke="#aaaaaa" stroke-width="4"/>
+  <text x="50%" y="20.0" font-size="32.0" text-anchor="middle" fill="#aaaaaa" font-family="MS Gothic, Arial"><tspan x="50%" dy="32.0">と</tspan></text>
+</g>
+<text x="910.0" y="454.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">PromotedPawn</text>
+<g transform="translate(15,475)">
+  <circle cx="40.0" cy="40.0" r="35.0" fill="#ff0000" stroke="#880000" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="44.44444444444444" text-anchor="middle" fill="#aa0000" font-family="SimSun, Arial" dominant-baseline="middle">將</text>
+</g>
+<text x="55.0" y="569.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">General</text>
+<g transform="translate(110,475)">
+  <circle cx="40.0" cy="40.0" r="35.0" fill="#000000" stroke="#222222" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="44.44444444444444" text-anchor="middle" fill="#555555" font-family="SimSun, Arial" dominant-baseline="middle">將</text>
+</g>
+<text x="150.0" y="569.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">General</text>
+<g transform="translate(205,475)">
+  <circle cx="40.0" cy="40.0" r="35.0" fill="#ff0000" stroke="#880000" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="44.44444444444444" text-anchor="middle" fill="#aa0000" font-family="SimSun, Arial" dominant-baseline="middle">士</text>
+</g>
+<text x="245.0" y="569.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Advisor</text>
+<g transform="translate(300,475)">
+  <circle cx="40.0" cy="40.0" r="35.0" fill="#000000" stroke="#222222" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="44.44444444444444" text-anchor="middle" fill="#555555" font-family="SimSun, Arial" dominant-baseline="middle">士</text>
+</g>
+<text x="340.0" y="569.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Advisor</text>
+<g transform="translate(395,475)">
+  <circle cx="40.0" cy="40.0" r="35.0" fill="#ff0000" stroke="#880000" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="44.44444444444444" text-anchor="middle" fill="#aa0000" font-family="SimSun, Arial" dominant-baseline="middle">象</text>
+</g>
+<text x="435.0" y="569.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Elephant</text>
+<g transform="translate(490,475)">
+  <circle cx="40.0" cy="40.0" r="35.0" fill="#000000" stroke="#222222" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="44.44444444444444" text-anchor="middle" fill="#555555" font-family="SimSun, Arial" dominant-baseline="middle">象</text>
+</g>
+<text x="530.0" y="569.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Elephant</text>
+<g transform="translate(585,475)">
+  <circle cx="40.0" cy="40.0" r="35.0" fill="#ff0000" stroke="#880000" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="44.44444444444444" text-anchor="middle" fill="#aa0000" font-family="SimSun, Arial" dominant-baseline="middle">馬</text>
+</g>
+<text x="625.0" y="569.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Horse</text>
+<g transform="translate(680,475)">
+  <circle cx="40.0" cy="40.0" r="35.0" fill="#000000" stroke="#222222" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="44.44444444444444" text-anchor="middle" fill="#555555" font-family="SimSun, Arial" dominant-baseline="middle">馬</text>
+</g>
+<text x="720.0" y="569.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Horse</text>
+<g transform="translate(775,475)">
+  <circle cx="40.0" cy="40.0" r="35.0" fill="#ff0000" stroke="#880000" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="44.44444444444444" text-anchor="middle" fill="#aa0000" font-family="SimSun, Arial" dominant-baseline="middle">車</text>
+</g>
+<text x="815.0" y="569.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Chariot</text>
+<g transform="translate(870,475)">
+  <circle cx="40.0" cy="40.0" r="35.0" fill="#000000" stroke="#222222" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="44.44444444444444" text-anchor="middle" fill="#555555" font-family="SimSun, Arial" dominant-baseline="middle">車</text>
+</g>
+<text x="910.0" y="569.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Chariot</text>
+<g transform="translate(15,590)">
+  <circle cx="40.0" cy="40.0" r="35.0" fill="#ff0000" stroke="#880000" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="44.44444444444444" text-anchor="middle" fill="#aa0000" font-family="SimSun, Arial" dominant-baseline="middle">砲</text>
+</g>
+<text x="55.0" y="684.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Cannon</text>
+<g transform="translate(110,590)">
+  <circle cx="40.0" cy="40.0" r="35.0" fill="#000000" stroke="#222222" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="44.44444444444444" text-anchor="middle" fill="#555555" font-family="SimSun, Arial" dominant-baseline="middle">砲</text>
+</g>
+<text x="150.0" y="684.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Cannon</text>
+<g transform="translate(205,590)">
+  <circle cx="40.0" cy="40.0" r="35.0" fill="#ff0000" stroke="#880000" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="44.44444444444444" text-anchor="middle" fill="#aa0000" font-family="SimSun, Arial" dominant-baseline="middle">卒</text>
+</g>
+<text x="245.0" y="684.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Soldier</text>
+<g transform="translate(300,590)">
+  <circle cx="40.0" cy="40.0" r="35.0" fill="#000000" stroke="#222222" stroke-width="4"/>
+  <text x="50%" y="55%" font-size="44.44444444444444" text-anchor="middle" fill="#555555" font-family="SimSun, Arial" dominant-baseline="middle">卒</text>
+</g>
+<text x="340.0" y="684.0" text-anchor="middle" font-family="Arial" font-size="12" fill="black">Soldier</text>
+</svg>
